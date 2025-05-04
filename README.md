@@ -37,5 +37,34 @@ Hallo mein name ist Dani , Los geht's! ✈️
 
 <!-- generated with [Platane/snk](https://github.com/Platane/snk) -->
 
+<div align="center">
+  <h3><b> 🏆 GitHub-Trophäen 🏆 </b></h3>
+</div>
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=januario00&column=8&theme=dracula&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+<div align="center">
+  <h3><b> Visitor Count  </b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/januario00/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
+         
+
 
 
