@@ -3,8 +3,8 @@ Hallo mein name ist Dani , Los geht's! ✈️
 
 
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=januario00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/rafaballerini](https://github-readme-stats.vercel.app/api?januario00=anuraghazra)(https://github.com/januario00/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=januario00&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januario00&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
