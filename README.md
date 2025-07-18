@@ -62,14 +62,6 @@ Hallo mein name ist Dani , Los geht's! ✈️
 <div align="center">
   <h3><b> Visitor Count  </b></h3>
 </div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/januario00/count.svg"
-    alt="Número de visitantes no perfil"
-  />
-</p>
-
          
 
 
