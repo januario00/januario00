@@ -59,10 +59,6 @@ Hallo mein name ist Dani , Los geht's! ✈️
   </a>
 </p>
 
-<div align="center">
-  <h3><b> Visitor Count  </b></h3>
-</div>
-         
 
 
 
