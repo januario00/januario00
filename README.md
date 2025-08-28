@@ -1,14 +1,12 @@
 ### Hallo , Wie Get's?
-
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=DANIELE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 <p> 𝐄𝐬𝐭𝐚́𝐠𝐢𝐚𝐫𝐢𝐚 𝐞𝐦 𝐏𝐥𝐚𝐧𝐞𝐣𝐚𝐦𝐞𝐧𝐭𝐨 💻 </p>
 
 
-<p align="left"></p>
-<p align="left">
-  Contato: <br>
+
+<div align="center">
+<img src="https://img.shields.io/static/v1?label=Overview&message=DANIELE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<div align="center">
   <a href="mailto:djanuario56@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -19,5 +17,8 @@
     <img src="https://img.shields.io/badge/-Portfólio-4b4b4b?style=flat-square&logo=About.me&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
-
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=januario00&"  />
+</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Meu GIF animado" />
+</p>
