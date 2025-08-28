@@ -1,11 +1,7 @@
 name: Generate Languages Metrics
 
 on:
-  push:
-    branches:
-      - main  # roda quando você dá push na branch main
-  schedule:
-    - cron: '0 0 * * 0'  # opcional: roda todo domingo à meia-noite
+  workflow_dispatch:
 
 jobs:
   metrics:
@@ -19,6 +15,6 @@ jobs:
           filename: metrics.plugin.languages.recent.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css  # se quiser ignorar alguma linguagem
           plugin_languages_sections: recently-used
           plugin_languages_limit: 8
+
