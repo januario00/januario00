@@ -1,50 +1,23 @@
-## Olá meu nome é Dani 👋 
-Hallo mein name ist Dani , Los geht's! ✈️
+### Hallo , Wie Get's?
 
 
- <div>
-  <a href="https://github.com/rafaballerini](https://github-readme-stats.vercel.app/api?januario00=anuraghazra)(https://github.com/januario00/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=januario00&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=januario00&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=DANIELE&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p> 𝐄𝐬𝐭𝐚́𝐠𝐢𝐚𝐫𝐢𝐚 𝐞𝐦 𝐏𝐥𝐚𝐧𝐞𝐣𝐚𝐦𝐞𝐧𝐭𝐨 💻 </p>
 
 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Dani-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dani-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Dani-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" alt="Dani-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-  <img align="center" alt="Dani-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="center" alt="Dani-Html" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-
-
-          
-  
-  
-
-  ##
-
-          
-- 🌱 Estudando programação...
-- ⚡ Fun fact: sou vegetariana a bastante tempo..
-
-
-
-## 🎯 Objetivos
-
-- Buscar oportunidades de estágio ou emprego em TI
-- Aperfeiçoar minhas habilidades em automação e desenvolvimento web
-- Explorar novos caminhos na arquitetura empresarial
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- generated with [Platane/snk](https://github.com/Platane/snk) -->
-
+<p align="left"></p>
+<p align="left">
+  Contato: <br>
+  <a href="mailto:djanuario56@gmail.com" title="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/daniele-januario-54b3a1139/" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://danielejanuario.my.canva.site/" title="Portfólio" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-4b4b4b?style=flat-square&logo=About.me&logoColor=white" alt="Portfólio"/>
+  </a>
+</p>
 
 
